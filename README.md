@@ -1,10 +1,10 @@
 ### Introduction
 Hi ! I'm Seung Eun !
 
-- Studying in *Yeungnam Uni*
-- Interested in Java, Back Developer
-- Working on C++ Skill
-- Trying on making my own homepage
+> - Studying in *Yeungnam Uni*
+> - Interested in Java, Back Developer
+> - Working on C++ Skill
+> - Trying on making my own **homepage**
 
 ---
 ### Main Tools
