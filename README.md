@@ -3,8 +3,9 @@ Hi ! I'm Seung Eun !
 
 > - Studying in *Yeungnam Uni*
 > - Interested in Java, Back Developer
-> - Working on C++ Skill
+> - Working on ==C++ Skills==
 > - Trying on making my own **homepage**
+
 
 ---
 ### Main Tools
