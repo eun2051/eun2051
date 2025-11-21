@@ -16,4 +16,4 @@ Hi ! I'm Seung Eun !
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eun2051&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eun2051&show_icons=true&theme=dracula&hide_rank=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eun2051&show_icons=true&theme=dracula&hide_rank=true&rank_icon=github)
