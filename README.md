@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=f6cde3&text=Hi, I'm%20eun2051&fontAlignY=55&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=f6cde3&text=Hi,I'm%20eun2051&fontAlignY=55&fontColor=ffffff" width="100%" />
 
 <h3>Introduction</h3>
 Hi ! I'm Seung Eun !<br/><br/>
