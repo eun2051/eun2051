@@ -15,5 +15,5 @@ Hi ! I'm Seung Eun !
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eun2051&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eun2051&show_icons=true&theme=dracula&hide_rank=true&rank_icon=github)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eun2051&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eun2051&show_icons=true&theme=dracula&rank_icon=github)
