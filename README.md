@@ -23,7 +23,6 @@ Hi ! I'm Seung Eun !<br/><br/>
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://my-github-stats-livid.vercel.app/api">
 <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0">
 
 <br/>
@@ -31,7 +30,7 @@ Hi ! I'm Seung Eun !<br/><br/>
 
 <h3>📊 GitHub Stats</h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=eun2051&show_icons=true&theme=dracula&rank_icon=github" alt="Anurag's GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eun2051&layout=compact&theme=dracula" alt="Top Langs" />
+<img src="https://my-github-stats-livid.vercel.app/api?username=eun2051&show_icons=true&theme=dracula&rank_icon=github" alt="Anurag's GitHub stats" />
+<img src="https://my-github-stats-livid.vercel.app/api/top-langs/?username=eun2051&layout=compact&theme=dracula" alt="Top Langs" />
 
 </div>
